@@ -1,0 +1,7 @@
+# Visual Studio y compilación de .NET (no se suben)
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+TestResults/
